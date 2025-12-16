@@ -1,9 +1,9 @@
 # Raytracing25_Task2
 
 ## Build
-Install SDF (Ubuntu 22)
+Install SDF (MacOS)
 
-    sudo apt-get install libsdl2-2.0-0
+    brew install sdl2
 
 - For installations on other platforms see https://wiki.libsdl.org/
 
